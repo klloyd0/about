@@ -12,7 +12,8 @@ You can just call me Kelsie. At the time of writing I am a graduating senior at 
 This page just has whatever I can think of putting as an introduction, so I'll leave these questions here for you to view as you want. Or scroll down as anyone normally would.
 
 * [Link Text](#why-are-you-in-programming).
-* [Link Text](#what-else-do-you-to-do).
+* [Link Text](#have-you-done-anything-fun-or-cool).
+* [Link Text](#what-else-do-you-like-to-do).
 
 ## Why Are You in Programming?
 
