@@ -44,5 +44,5 @@ I'm really hoping to take a class in Arduino either this coming quarter or my la
 
 ## What Else Do You Like to Do?
 
-
+As you can guess, I love music a lot. I don't play it, but I love listening to it. My favorite genres are metal, goth rock, and electronic. If you're also familiar with metal, my favorite subgenres are thrash, death, industrial and doom. Some of my favorite bands are Megadeth, Motorhead, Overkill, Rammstein, Death, Exodus, Ministry, Scythelord, Judas Priest and Slayer, and I've recently been getting into Candlemass, Municipal Waste and Electric Wizard. For non-metal bands, my first love was (and still very much is) Bauhaus and I also love Sisters of Mercy, Oingo Boingo, Depeche Mode, Siouxsie and the Banshees, The Damned among others. You can find me also listening to Pendulum, deadmau5, Carpenter Brut, Lady Gaga, Perturbator and Justice a lot.
 
