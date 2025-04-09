@@ -9,6 +9,11 @@ Hello world!
 
 You can just call me Kelsie. At the time of writing I am a graduating senior at UCSD majoring in Interdisciplinary Computing in the Arts and minoring in Computer Science and Engineering. In short, I've been learning the more creative side of coding for stuff like game development, virtual reality, etc. while minoring to learn and hone in on the technical side of coding (and other things that come with learning computer science apparently).
 
+This page just has whatever I can think of putting as an introduction, so I'll leave these questions here for you to view as you want. Or scroll down as anyone normally would.
+
+* [Link Text](#why-are-you-in-programming).
+* [Link Text](#what-else-do-you-to-do).
+
 ## Why Are You in Programming?
 
 In short...
