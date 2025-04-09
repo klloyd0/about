@@ -60,4 +60,4 @@ I love videos games a lot too. They're a third lifelong love of mine besides dra
 
 I also love watching anime and movies with my friends and boyfriend. Some of my favorite anime are *Mob Psycho 100*, *Jojo's Bizarre Adventure* (*Stardust Crusaders* and *Stone Ocean* are my favorite parts) and *Kill la Kill*. Alongside a few games on my list above I sometimes like to draw Jojo and Mob Psycho stuff too for fun. Some of my favorite movies are *Army of Darkness*, the *John Wick* series, *Beetlejuice* and *The Nightmare Before Christmas*.
 
-I'm not sure how else to end this section, but since I mentioned Sonic Adventure 2...fun fact, this is not the first time I had to make a markdown page as a school assignment on Github.
+I'm not sure how else to end this section, but since I mentioned Sonic Adventure 2...fun fact, [this is not the first time I had to make a markdown page as a school assignment on Github](docs/goofy.md).
