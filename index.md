@@ -1,6 +1,12 @@
 # About Myself
 ## Who Are You Anyway?
 
+I'll just be cheeky and start with a classic bit of code we all first probably learned.
+
+`print("Hello world!")`
+
+Hello world!
+
 You can just call me Kelsie! At the time of writing I am a graduating senior at UCSD majoring in Interdisciplinary Computing in the Arts and minoring in Computer Science and Engineering.
 
 ## Why Are You in Programming?
