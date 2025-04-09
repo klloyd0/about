@@ -44,5 +44,20 @@ I'm really hoping to take a class in Arduino either this coming quarter or my la
 
 ## What Else Do You Like to Do?
 
-As you can guess, I love music a lot. I don't play it, but I love listening to it. My favorite genres are metal, goth rock, and electronic. If you're also familiar with metal, my favorite subgenres are thrash, death, industrial and doom. Some of my favorite bands are Megadeth, Motorhead, Overkill, Rammstein, Death, Exodus, Ministry, Scythelord, Judas Priest and Slayer, and I've recently been getting into Candlemass, Municipal Waste and Electric Wizard. For non-metal bands, my first love was (and still very much is) Bauhaus and I also love Sisters of Mercy, Oingo Boingo, Depeche Mode, Siouxsie and the Banshees, The Damned among others. You can find me also listening to Pendulum, deadmau5, Carpenter Brut, Lady Gaga, Perturbator and Justice a lot.
+As you can guess, I love music a lot. I don't play it, but I love listening to it. My favorite genres are metal, goth rock, and electronic. If you're also familiar with metal, my favorite subgenres are thrash, death, industrial and doom. Some of my favorite bands are Megadeth, Motorhead, Overkill, Rammstein, Death, Exodus, Ministry, Scythelord, Judas Priest and Slayer, and I've recently been getting into Candlemass, Municipal Waste and Electric Wizard. For non-metal bands, my first love was (and still very much is) Bauhaus and I also love Sisters of Mercy, Oingo Boingo, The Birthday Party, Siouxsie and the Banshees, Depeche Mode, The Damned among others. You can find me also listening to Pendulum, deadmau5, Carpenter Brut, Lady Gaga, Mystery Skulls, Justice, and Perturbator a lot.
 
+Like I said, I don't play music but I love singing karaoke! Which, fun fact, I actually have been practicing and now can actually sing in death metal growls. Properly and without hurting my vocal chords too!
+
+My other favorite hobby is drawing
+
+I love videos games a lot too. They're a third lifelong love of mine besides drawing and music. I have a lot of favorites but in no particular order, five of my top ones are:
+
+1. Hotline Miami
+2. Team Fortess 2
+3. Cuphead
+4. Sonic Adventure 2
+5. Minecraft
+
+I also love watching anime and movies with my friends and boyfriend. Some of my favorite anime are *Mob Psycho 100*, *Jojo's Bizarre Adventure* (*Stardust Crusaders* and *Stone Ocean* are my favorite parts) and *Kill la Kill*. Alongside a few games on my list above I sometimes like to draw Jojo and Mob Psycho stuff too for fun. Some of my favorite movies are *Army of Darkness*, the *John Wick* series, *Beetlejuice* and *The Nightmare Before Christmas*.
+
+I'm not sure how else to end this section, but since I mentioned Sonic Adventure 2...fun fact, this is not the first time I had to make a markdown page as a school assignment on Github.
