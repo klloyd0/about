@@ -36,7 +36,7 @@ This demo is meant to be a love letter to my love for electronic music and provi
 
 If you're curious about other stuff I've done in other classes, I've done a couple VR environments in Unreal Engine, including one called *CMY* which was a ball pit called filled with colorful metallic spike balls you can play in and climb around as a weird crystalline jungle gym using the Oculus headset.
 
-SCREENSHOT HERE
+![Image](cmy.png)
 
 I've also done a few p5.js projects in Javascript, one of my favorite examples - an audiovisual animation to a metal track - of which you can view [here](https://editor.p5js.org/kalloyd/sketches/o2Ipy5dX0).
 
