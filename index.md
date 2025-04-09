@@ -48,7 +48,7 @@ As you can guess, I love music a lot. I don't play it, but I love listening to i
 
 Like I said, I don't play music but I love singing karaoke! Which, fun fact, I actually have been practicing and now can actually sing in death metal growls. Properly and without hurting my vocal chords too!
 
-My other favorite hobby is drawing
+My other favorite hobby is drawing. I switch between drawing in a sketchbook or drawing on Clip Studio Paint.
 
 I love videos games a lot too. They're a third lifelong love of mine besides drawing and music. I have a lot of favorites but in no particular order, five of my top ones are:
 
